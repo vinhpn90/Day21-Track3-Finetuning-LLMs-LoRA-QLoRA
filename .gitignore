@@ -216,3 +216,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Lab 21 ML weights, checkpoints and zip packages
+adapters/
+results/r8/
+results/r16/
+results/r64/
+lab21_2A202600563/
+*.zip
+*.safetensors
+*.bin
+checkpoint-*/
+.DS_Store
+*.DS_Store
