@@ -2,7 +2,7 @@
 
 **Học viên**: Phạm Ngọc Vinh — 2A202600563  
 **Ngày nộp**: 2026-06-25  
-**Submission option**: Option A (Lightweight ZIP)
+**Submission option**: Option B (GitHub + HuggingFace Hub) ⭐ Bonus +5 pts
 
 ---
 
